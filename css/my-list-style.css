@@ -2,7 +2,6 @@ header{
 	background-image: url(images/header.jpg);
 	background-size: cover;
 	background-position: top;
-	background-color: rgba(0, 0, 0, .3);
 	height: 500px;
 }
 

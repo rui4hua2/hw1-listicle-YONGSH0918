@@ -6,9 +6,6 @@ header{
 	height: 500px;
 }
 
-body{
-	text-align: center;
-}
 
 #pagetitle{
 	max-width: 780px;
@@ -37,6 +34,7 @@ body{
 	font-weight: bold;
 	color: rgb(51, 51, 51);
 	margin: 50px;
+	text-align: center;
 
 }
 
@@ -53,14 +51,20 @@ hr{
 .a #number{
 	border: 40px;
 	color: rgba(0, 0, 0, 0.25);
+	margin-left: 180px;
 }
 
 .a span{
 	font-family: 'Roboto Slab', serif;
 	font-size: 36px;
 	font-weight: bold;
-	color: rgb(51, 51, 51);
-	margin: auto 20px;
+	margin: 20px 40px 20px 0;
+}
+
+.a a{
+	color: #42b4d6;
+	text-decoration: none;
+	margin: 20px 350px 20px 250px;
 }
 
 .a p{
@@ -68,22 +72,23 @@ hr{
 	font-size: 18px;
 	line-height: 32px;
 	color: rgb(51, 51, 51);
-	margin: 0 100px;
+	margin-left: 16.67%;
+	margin-right: 16.67%;
 }
 
-.a #recommendation{
+strong{
+	margin: 20px 350px 20px 250px;
 	font-size: 18px;
-	font-family: 'Source Sans Pro', sans-serif;
 }
 
-.a a{
-	color: #42b4d6;
-	text-decoration: none;
-	margin: 0 100px;
+div #r{
+    font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+	color: rgb(51, 51, 51);
+	margin-left: -320px;
 }
 
 .a img{
 	width: 66.67%;
-	margin:20px 0 120px 40px;
+	margin:20px 100px 120px 250px;
 }
-

@@ -1,6 +1,6 @@
 header{
 	display: flex;
-	background-image: url("../images/A.jpg");
+	background-image: url("images/A.jpg");
 	height: 500px;
 	background-repeat: no-repeat;
 	background-size: cover;

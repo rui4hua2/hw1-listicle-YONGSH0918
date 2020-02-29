@@ -1,5 +1,7 @@
 header{
 	display: flex;
+	justify-content: center;
+        align-items: center;
 	background-image: url("images/Header.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;

@@ -1,4 +1,5 @@
 header{
+	display: flex;
 	background-image: url("images/Header.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
